@@ -1,0 +1,25 @@
+
+.header h1 {
+    margin-top: 0;
+    margin-left: 0px;
+    color: white;
+    font-weight: 200;
+}
+.h1{
+    margin:15px;
+    font-weight: 200;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    justify-content:center;
+}
+.avatar{
+    position:relative;
+    justify-content:center;
+    margin-left:1300px;
+}
+.footer{
+    margin-left: 500px;
+}
+
+

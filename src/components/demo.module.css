@@ -1,0 +1,10 @@
+.slct {
+    margin:5px;
+    position:relative;
+    justify-content: space-between;
+}
+.p{
+    margin:5px;
+    position:relative;
+    justify-content: space-around;
+}
